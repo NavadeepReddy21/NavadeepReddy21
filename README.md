@@ -12,6 +12,7 @@
 - 🌱 Actively learning: **LLMs · RAG Pipelines · LangChain · Agentic AI**
 - 🤝 Open to: **AI/ML · GenAI · Computer Vision** roles
 - 📍 Based in Hyderabad, Telangana
+- 👮 NCC Cadet
 
 ---
 
