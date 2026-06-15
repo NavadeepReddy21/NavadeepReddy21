@@ -1,7 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waveAuto&color=1a1a2e&height=140&section=header&text=Navadeep%20Reddy&fontSize=52&fontColor=4fc3f7&animation=fadeIn&fontAlignY=70&desc=ECE%20Graduate%20→%20AI%20Developer&descSize=18&descFontColor=90caf9&descAlignY=88" />
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>
+  Hey, I'm Navadeep Reddy
+</h1>
+
+<h3 align="center">ECE Graduate → AI Developer | Computer Vision + GenAI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&lines=Computer+Vision+%2B+GenAI+Developer;YOLOv8+·+LangChain+·+Gemini+API;Building+Real-World+AI+Systems;Open+to+AI%2FML+%26+GenAI+Roles+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&lines=Computer+Vision+%2B+GenAI+Developer;YOLOv8+%C2%B7+LangChain+%C2%B7+Gemini+API;Building+Real-World+AI+Systems;Open+to+AI%2FML+%26+GenAI+Roles!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -113,16 +118,12 @@ Real-time edge AI for RTC buses — gender classification + entry/exit counting 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NavadeepReddy21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NavadeepReddy21&theme=tokyonight&hide_border=true" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavadeepReddy21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavadeepReddy21&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavadeepReddy21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NavadeepReddy21&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NavadeepReddy21&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -148,8 +149,10 @@ Real-time edge AI for RTC buses — gender classification + entry/exit counting 
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waveAuto&color=1a1a2e&height=80&section=footer&fontColor=4fc3f7&animation=fadeIn" />
-
 <p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px" />
+  <br/>
   <i>💡 "Building AI systems that solve real problems — one model at a time."</i>
+  <br/><br/>
+  <b>Let's connect and build something amazing together!</b>
 </p>
